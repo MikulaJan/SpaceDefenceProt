@@ -1,6 +1,6 @@
-🌌 Space Defence Prototype: Defender/Survival First-Person 3D Shooter 🚀
+🌌 Space Defence Prototype: 
 
-Embark on an Intergalactic Odyssey of Survival and Defense
+Defender/Survival First-Person 3D Shooter 🚀
 
 In the vast, unforgiving expanse of space, defend the station against relentless enemy raids in this immersive First-Person/3D Shooter hybrid. Brace for intense Defender and Survival challenges, where safeguarding the station isn't just about defending—it's about thriving amidst the cosmos.
 
